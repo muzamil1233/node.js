@@ -1,0 +1,16 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "description": "this is simple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "url": "^0.11.4"
+  }
+}

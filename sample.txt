@@ -1,0 +1,19 @@
+hey whatsapp
+
+
+REST API - JSON
+Get /user - List all users 
+GET/users/1 - Get the user with ID 1
+GET /users/2 - Get the user with ID 2
+
+POST  /users - Create new user
+
+Dynamic path parameter 
+
+GET/users/:id 
+
+
+:id >> variable dynamic
+
+POST /users/id -  Edit the user with ID 1
+Delete /users/1 - Delete the user with ID 1
